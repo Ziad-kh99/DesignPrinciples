@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPrinciples", "DesignPrinciples\DesignPrinciples.csproj", "{DD23CA8D-F3D5-4B3A-87F9-78ED0264A927}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulate What Varies", "Encapsulate What Varies\Encapsulate What Varies.csproj", "{A9C5C6B4-A1F1-4115-9510-AAB942A877B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DD23CA8D-F3D5-4B3A-87F9-78ED0264A927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD23CA8D-F3D5-4B3A-87F9-78ED0264A927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD23CA8D-F3D5-4B3A-87F9-78ED0264A927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C5C6B4-A1F1-4115-9510-AAB942A877B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C5C6B4-A1F1-4115-9510-AAB942A877B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C5C6B4-A1F1-4115-9510-AAB942A877B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C5C6B4-A1F1-4115-9510-AAB942A877B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

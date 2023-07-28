@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DesignPrinciples.EncapsulateWhatVaries;
+
+
+#region Encapsulate What Varies:
+
+
+Pizza pizza = Pizza.Order("chicken");
+
+// Console.WriteLine(pizza.ToString());
+    
+#endregion

@@ -1,0 +1,18 @@
+C:\code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\DesignPrinciples.exe
+C:\code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\DesignPrinciples.deps.json
+C:\code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\DesignPrinciples.runtimeconfig.json
+C:\code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\DesignPrinciples.dll
+C:\code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\DesignPrinciples.pdb
+C:\code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\Encapsulate What Varies.dll
+C:\code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\Encapsulate What Varies.pdb
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.csproj.AssemblyReference.cache
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.AssemblyInfoInputs.cache
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.AssemblyInfo.cs
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.csproj.CoreCompileInputs.cache
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.csproj.CopyComplete
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.dll
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\refint\DesignPrinciples.dll
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.pdb
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.genruntimeconfig.cache
+C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\ref\DesignPrinciples.dll

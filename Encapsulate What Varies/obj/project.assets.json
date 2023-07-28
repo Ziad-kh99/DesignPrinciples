@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Encapsulate What Varies/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Encapsulate What Varies.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Encapsulate What Varies.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Encapsulate What Varies/1.0.0": {
-      "type": "project",
-      "path": "../Encapsulate What Varies/Encapsulate What Varies.csproj",
-      "msbuildProject": "../Encapsulate What Varies/Encapsulate What Varies.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Encapsulate What Varies >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Ziad-KH99\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\DesignPrinciples\\DesignPrinciples\\DesignPrinciples.csproj",
-      "projectName": "DesignPrinciples",
-      "projectPath": "C:\\code\\DesignPrinciples\\DesignPrinciples\\DesignPrinciples.csproj",
+      "projectUniqueName": "C:\\code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj",
+      "projectName": "Encapsulate What Varies",
+      "projectPath": "C:\\code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj",
       "packagesPath": "C:\\Users\\Ziad-KH99\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\DesignPrinciples\\DesignPrinciples\\obj\\",
+      "outputPath": "C:\\code\\DesignPrinciples\\Encapsulate What Varies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,11 +39,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj": {
-              "projectPath": "C:\\code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

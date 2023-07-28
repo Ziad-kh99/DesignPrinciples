@@ -1,0 +1,12 @@
+C:\code\DesignPrinciples\Encapsulate What Varies\bin\Debug\net7.0\Encapsulate What Varies.deps.json
+C:\code\DesignPrinciples\Encapsulate What Varies\bin\Debug\net7.0\Encapsulate What Varies.dll
+C:\code\DesignPrinciples\Encapsulate What Varies\bin\Debug\net7.0\Encapsulate What Varies.pdb
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\Encapsulate What Varies.csproj.AssemblyReference.cache
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\Encapsulate What Varies.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\Encapsulate What Varies.AssemblyInfoInputs.cache
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\Encapsulate What Varies.AssemblyInfo.cs
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\Encapsulate What Varies.csproj.CoreCompileInputs.cache
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\Encapsulate What Varies.dll
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\refint\Encapsulate What Varies.dll
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\Encapsulate What Varies.pdb
+C:\code\DesignPrinciples\Encapsulate What Varies\obj\Debug\net7.0\ref\Encapsulate What Varies.dll
