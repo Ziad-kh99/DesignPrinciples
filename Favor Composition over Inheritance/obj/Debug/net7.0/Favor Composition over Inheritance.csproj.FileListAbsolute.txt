@@ -1,0 +1,12 @@
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\Favor Composition over Inheritance.csproj.AssemblyReference.cache
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\Favor Composition over Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\Favor Composition over Inheritance.AssemblyInfoInputs.cache
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\Favor Composition over Inheritance.AssemblyInfo.cs
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\Favor Composition over Inheritance.csproj.CoreCompileInputs.cache
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\bin\Debug\net7.0\Favor Composition over Inheritance.deps.json
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\bin\Debug\net7.0\Favor Composition over Inheritance.dll
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\bin\Debug\net7.0\Favor Composition over Inheritance.pdb
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\Favor Composition over Inheritance.dll
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\refint\Favor Composition over Inheritance.dll
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\Favor Composition over Inheritance.pdb
+C:\Code\DesignPrinciples\Favor Composition over Inheritance\obj\Debug\net7.0\ref\Favor Composition over Inheritance.dll

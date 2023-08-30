@@ -16,3 +16,5 @@ C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\refint\DesignPrincipl
 C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.pdb
 C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\DesignPrinciples.genruntimeconfig.cache
 C:\code\DesignPrinciples\DesignPrinciples\obj\Debug\net7.0\ref\DesignPrinciples.dll
+C:\Code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\Favor Composition over Inheritance.dll
+C:\Code\DesignPrinciples\DesignPrinciples\bin\Debug\net7.0\Favor Composition over Inheritance.pdb

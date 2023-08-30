@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Encapsulate What Varies.dll": {}
         }
+      },
+      "Favor Composition over Inheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Favor Composition over Inheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Favor Composition over Inheritance.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Encapsulate What Varies/Encapsulate What Varies.csproj",
       "msbuildProject": "../Encapsulate What Varies/Encapsulate What Varies.csproj"
+    },
+    "Favor Composition over Inheritance/1.0.0": {
+      "type": "project",
+      "path": "../Favor Composition over Inheritance/Favor Composition over Inheritance.csproj",
+      "msbuildProject": "../Favor Composition over Inheritance/Favor Composition over Inheritance.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Encapsulate What Varies >= 1.0.0"
+      "Encapsulate What Varies >= 1.0.0",
+      "Favor Composition over Inheritance >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\DesignPrinciples\\DesignPrinciples\\DesignPrinciples.csproj",
+      "projectUniqueName": "C:\\Code\\DesignPrinciples\\DesignPrinciples\\DesignPrinciples.csproj",
       "projectName": "DesignPrinciples",
-      "projectPath": "C:\\code\\DesignPrinciples\\DesignPrinciples\\DesignPrinciples.csproj",
+      "projectPath": "C:\\Code\\DesignPrinciples\\DesignPrinciples\\DesignPrinciples.csproj",
       "packagesPath": "C:\\Users\\Ziad-KH99\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\DesignPrinciples\\DesignPrinciples\\obj\\",
+      "outputPath": "C:\\Code\\DesignPrinciples\\DesignPrinciples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +75,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj": {
-              "projectPath": "C:\\code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj"
+            "C:\\Code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj": {
+              "projectPath": "C:\\Code\\DesignPrinciples\\Encapsulate What Varies\\Encapsulate What Varies.csproj"
+            },
+            "c:\\Code\\DesignPrinciples\\Favor Composition over Inheritance\\Favor Composition over Inheritance.csproj": {
+              "projectPath": "c:\\Code\\DesignPrinciples\\Favor Composition over Inheritance\\Favor Composition over Inheritance.csproj"
             }
           }
         }

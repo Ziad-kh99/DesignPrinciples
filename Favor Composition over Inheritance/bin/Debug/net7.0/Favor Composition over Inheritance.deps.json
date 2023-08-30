@@ -6,16 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "DesignPrinciples/1.0.0": {
-        "runtime": {
-          "DesignPrinciples.dll": {}
-        }
-      },
-      "Encapsulate What Varies/1.0.0": {
-        "runtime": {
-          "Encapsulate What Varies.dll": {}
-        }
-      },
       "Favor Composition over Inheritance/1.0.0": {
         "runtime": {
           "Favor Composition over Inheritance.dll": {}
@@ -24,16 +14,6 @@
     }
   },
   "libraries": {
-    "DesignPrinciples/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Encapsulate What Varies/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Favor Composition over Inheritance/1.0.0": {
       "type": "project",
       "serviceable": false,
